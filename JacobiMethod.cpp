@@ -1,3 +1,4 @@
+// Ekaterina Mozhegova
 #include <iostream>
 #include <vector>
 #include <cmath>
